@@ -1,9 +1,9 @@
 # Skills
 - skill: AI Experience
-  description: Contributions to the AI techniques utilized leveraged by production apps
+  description: Contributions to AI techniques utilized leveraged by production apps
 
-- skill: Desktop Development
+- skill: Desktop Application Development
   description: C#, SQL, C++, Python
 
 - skill: Web Development
-  description: React, Javascript, HTML & CSS
+  description: React, Javascript, HTML & CSS, Docker
